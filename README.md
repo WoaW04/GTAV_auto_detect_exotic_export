@@ -1,1 +1,2 @@
 # GTAV_auto_detect_exotic_export
+自动搜寻外贸出口载具的小脚本，没啥技术含量，需要python环境运行
